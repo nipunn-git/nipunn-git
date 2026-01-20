@@ -18,15 +18,13 @@
 
 ## 👋 About Me
 
-I’m **Nipun**, a **Data Science student** who believes in doing things **slow, deep, and correctly**.
+```text
+🎓 Data Science undergraduate  
+💻 C • Java • Python  
+🌱 Learning HTML • CSS • JavaScript  
+🧠 Interested in logic, systems & problem-solving  
+📖 Learning in public, step by step  
 
-- 🎓 Data Science undergraduate  
-- 💻 Comfortable with **C, Java, Python**  
-- 🌱 Currently learning **HTML, CSS, JavaScript**  
-- 🧠 Interested in logic, systems, and problem-solving  
-- 📈 Documenting my learning journey publicly  
-
-> *Foundations first. Hype later.*
 
 ---
 
