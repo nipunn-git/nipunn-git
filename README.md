@@ -73,6 +73,14 @@ I’m **Nipun**, a **Data Science student** who believes in doing things **slow,
 </table>
 
 ---
+## 🧩 LeetCode Activity (Auto-Updated)
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/nipunndhiman?theme=dark&font=JetBrains%20Mono&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
 
 ## 🧩 Problem Solving (Planned)
 
