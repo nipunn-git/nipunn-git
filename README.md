@@ -18,13 +18,17 @@
 
 ## 👋 About Me
 
-```text
-🎓 Data Science undergraduate  
-💻 C • Java • Python  
-🌱 Learning HTML • CSS • JavaScript  
-🧠 Interested in logic, systems & problem-solving  
-📖 Learning in public, step by step  
+<table>
+<tr><td>
 
+🎓 **Data Science undergraduate**  
+💻 **C • Java • Python**  
+🌱 **Learning HTML • CSS • JavaScript**  
+🧠 **Interested in logic, systems & problem-solving**  
+📖 **Learning in public, step by step**
+
+</td></tr>
+</table>
 
 ---
 
