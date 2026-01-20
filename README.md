@@ -31,6 +31,11 @@
 </table>
 
 ---
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript&theme=dark" />
+</p>
 
 ## 🔗 Find Me Online
 
