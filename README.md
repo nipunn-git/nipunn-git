@@ -88,7 +88,9 @@
 </table>
 
 ---
-## 🧩 LeetCode Activity (Auto-Updated)
+## 🧩 Problem Solving Journey
+
+<p align="center"><i>Tracking consistency, not speed.</i></p>
 
 <p align="center">
   <img 
