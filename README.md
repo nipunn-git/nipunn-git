@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nipun;Data+Science+Student;Learning+Programming+the+Right+Way;Building+Foundations+Before+Speed" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header"/>
