@@ -37,6 +37,9 @@ I’m **Nipun**, a **Data Science student** who believes in doing things **slow,
   <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="https://instagram.com/nipunndhiman">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
