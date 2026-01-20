@@ -139,3 +139,11 @@
   <b>⚡ Learning honestly. Improving daily. No shortcuts.</b><br>
   ⭐ Thanks for visiting my profile
 </p>
+
+---
+
+<p align="center">
+  <b>Foundations first. Hype later.</b><br>
+  <sub>— Nipun</sub>
+</p>
+
