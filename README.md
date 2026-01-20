@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header"/>
+  <img src="./assets/banner.gif" alt="Profile Banner" width="100%" />
 </p>
+
 
 ---
 
