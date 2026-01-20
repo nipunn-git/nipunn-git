@@ -1,16 +1,113 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nipun;Data+Science+Student;Learning+Programming+the+Right+Way;Building+Foundations+Before+Speed" />
+</p>
 
-<!--
-**nipunn-git/nipunn-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I’m **Nipun**, a **Data Science student** who believes in doing things **slow, deep, and correctly**.
+
+- 🎓 Data Science undergraduate  
+- 💻 Comfortable with **C, Java, Python**  
+- 🌱 Currently learning **HTML, CSS, JavaScript**  
+- 🧠 Interested in logic, systems, and problem-solving  
+- 📈 Documenting my learning journey publicly  
+
+> *Foundations first. Hype later.*
+
+---
+
+## 🔗 Find Me Online
+
+<p align="center">
+  <a href="https://github.com/nipunn-git">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🧪 What I’m Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Programming Fundamentals  
+**C · Java · Python**
+
+- Strengthening logic & syntax  
+- Writing clean, readable code  
+- Building discipline through practice  
+
+</td>
+
+<td width="50%">
+
+### 🌐 Frontend Foundations  
+**HTML · CSS · JavaScript**
+
+- Starting with core web basics  
+- Learning how the web really works  
+- No frameworks yet — fundamentals only  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Problem Solving (Planned)
+
+- 🚧 DSA not started yet (intentionally)
+- 🟢 Will begin with JAVA
+- 📊 Progress will be tracked once started  
+
+> I care more about **clarity** than speed.
+
+---
+
+## 🛠 Languages & Tools
+
+### Languages I Know
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python"/>
+</p>
+
+### Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nipunn-git&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Learning honestly. Improving daily. No shortcuts.</b><br>
+  ⭐ Thanks for visiting my profile
+</p>
