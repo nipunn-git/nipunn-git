@@ -2,7 +2,8 @@
   <img src="./assets/Banner.png" alt="Profile Banner" style="max-height:260px; width:100%;" />
 </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nipun;Data+Science+Student;Learning+Programming+the+Right+Way;Building+Foundations+Before+Speed" />
+  <h1 align="center">Hi, I’m Nipun 👋</h1>
+<p align="center"><i>Data Science student • Learning deeply, building slowly</i></p>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&color=0e75b6&style=flat" />
