@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./banner.png" alt="Profile Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Profile Banner" style="max-height:260px; width:100%;" />
 </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nipun;Data+Science+Student;Learning+Programming+the+Right+Way;Building+Foundations+Before+Speed" />
