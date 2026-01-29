@@ -43,7 +43,7 @@
   <a href="https://github.com/nipunn-git">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/nipun-712b2536b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/">
