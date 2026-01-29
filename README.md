@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/nipun-712b2536b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/nipunndhiman/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
   </a>
   <a href="mailto:">
