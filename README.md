@@ -5,12 +5,6 @@
 <img src="./assets/banner.svg" width="100%" />
 
 <div align="center" style="margin-top:-210px; padding-bottom:140px;">
-  <h1 style="font-size:2.8em; font-weight:700; letter-spacing:1px;">
-    Hi, I’m Nipun 👋
-  </h1>
-  <p style="font-size:1.1em; opacity:0.85;">
-    Data Science undergraduate • Foundations first
-  </p>
 
   <img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
