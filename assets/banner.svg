@@ -1,30 +1,61 @@
-<!-- save as assets/banner.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" preserveAspectRatio="xMidYMid slice">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid slice">
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#0ea5e9">
-        <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
-                 values="#0ea5e9;#7c3aed;#06b6d4;#0ea5e9"/>
+    <!-- Animated background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" dur="12s" repeatCount="indefinite"
+          values="#0f2027;#203a43;#2c5364;#0f2027"/>
       </stop>
-      <stop offset="100%" stop-color="#7c3aed">
-        <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
-                 values="#7c3aed;#06b6d4;#0ea5e9;#7c3aed"/>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" dur="12s" repeatCount="indefinite"
+          values="#2c5364;#0f2027;#203a43;#2c5364"/>
       </stop>
     </linearGradient>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18" result="b"/>
-      <feBlend in="SourceGraphic" in2="b"/>
+
+    <!-- Soft glow blur -->
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="40" />
     </filter>
   </defs>
 
-  <rect width="1200" height="260" fill="url(#g)"/>
-  <g transform="translate(60,48)" fill="#fff" font-family="Inter, Roboto, Arial" >
-    <text x="0" y="40" font-size="36" font-weight="700">Hi, I’m Nipun 👋</text>
-    <text x="0" y="86" font-size="20" opacity="0.9">Data Science undergraduate • Foundations First</text>
-    <!-- decorative circles -->
-    <g opacity="0.20" filter="url(#soft)">
-      <circle cx="1100" cy="60" r="60" fill="#ffffff"/>
-      <circle cx="980" cy="170" r="36" fill="#ffffff"/>
-    </g>
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)" />
+
+  <!-- Floating glow elements -->
+  <circle cx="1050" cy="90" r="120" fill="#ffffff" opacity="0.04" filter="url(#blur)">
+    <animate attributeName="cx" dur="14s" values="1050;1000;1050" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="150" cy="220" r="90" fill="#ffffff" opacity="0.035" filter="url(#blur)">
+    <animate attributeName="cy" dur="12s" values="220;200;220" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- CENTERED TEXT GROUP -->
+  <g
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Inter, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif"
+    fill="#ffffff">
+
+    <!-- Main title -->
+    <text
+      x="600"
+      y="135"
+      font-size="44"
+      font-weight="700"
+      letter-spacing="1">
+      Hi, I’m Nipun 👋
+    </text>
+
+    <!-- Subtitle -->
+    <text
+      x="600"
+      y="185"
+      font-size="18"
+      font-weight="400"
+      opacity="0.85"
+      letter-spacing="0.6">
+      Data Science Undergraduate • Foundations First
+    </text>
   </g>
 </svg>
