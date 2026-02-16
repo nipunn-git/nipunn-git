@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner.png" alt="Profile Banner" style="max-height:260px; width:100%;" />
+  <img src="./assets/banner.svg" width="100%" style="max-height:260px; border-radius:12px;" />
 </p>
 
   <h1 align="center">Hi, I’m Nipun 👋</h1>
@@ -32,9 +32,8 @@
 
 ---
 ## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,javascript&theme=dark" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,numpy,pandas,matplotlib,seaborn,scikitlearn,pytorch,tensorflow,sql,docker,git,githubactions,jupyter,vscode,linux,streamlit,flask&theme=dark" />
 </p>
 
 ## 🔗 Find Me Online
@@ -134,6 +133,12 @@
 </p>
 
 ---
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&theme=tokyonight" />
+</p>
+
 
 <p align="center">
   <b>⚡ Learning honestly. Improving daily. No shortcuts.</b><br>
