@@ -1,0 +1,30 @@
+<!-- save as assets/banner.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0ea5e9">
+        <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
+                 values="#0ea5e9;#7c3aed;#06b6d4;#0ea5e9"/>
+      </stop>
+      <stop offset="100%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" dur="6s" repeatCount="indefinite"
+                 values="#7c3aed;#06b6d4;#0ea5e9;#7c3aed"/>
+      </stop>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="b"/>
+      <feBlend in="SourceGraphic" in2="b"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#g)"/>
+  <g transform="translate(60,48)" fill="#fff" font-family="Inter, Roboto, Arial" >
+    <text x="0" y="40" font-size="36" font-weight="700">Hi, I’m Nipun 👋</text>
+    <text x="0" y="86" font-size="20" opacity="0.9">Data Science undergraduate • Foundations First</text>
+    <!-- decorative circles -->
+    <g opacity="0.20" filter="url(#soft)">
+      <circle cx="1100" cy="60" r="60" fill="#ffffff"/>
+      <circle cx="980" cy="170" r="36" fill="#ffffff"/>
+    </g>
+  </g>
+</svg>
