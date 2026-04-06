@@ -5,38 +5,43 @@
 <img src="./assets/banner.svg" width="100%" />
 
 <div align="center" style="margin-top:-210px; padding-bottom:140px;">
-
   <img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 ---
 
-## 👋 About Me
+# 👋 Hey, I'm Nipun
 
-<table>
-<tr><td>
+🎓 Data Science Undergraduate  
+💻 Building strong foundations in programming & systems  
+🧠 Focused on logic, problem-solving & long-term mastery  
 
-🎓 **Data Science undergraduate**  
-💻 **C · Java · Python**  
-🌱 **Learning HTML · CSS · JavaScript**  
-🧠 **Interested in logic, systems & problem-solving**  
-📖 **Learning in public, step by step**
+> ⚡ *No shortcuts. Just deliberate progress.*
 
-</td></tr>
-</table>
+---
+
+## 🧭 About Me
+
+- 🧠 I care about **how things work**, not just using them  
+- 🏗 Currently building **core programming strength**  
+- 🌱 Learning **web fundamentals from scratch (no frameworks)**  
+- 📖 Sharing my journey publicly to stay accountable  
+- 🎯 Playing the **long game in tech**
 
 ---
 
 ## 🧠 Learning Philosophy
 
-I believe **strong fundamentals compound faster than shortcuts**.
+> **“Strong fundamentals compound. Shortcuts collapse.”**
 
-I’m intentionally slowing down to build:
-- conceptual clarity  
-- language fluency  
-- long-term problem-solving ability  
+I’m intentionally optimizing for:
 
-Speed comes later. Mastery comes first.
+- 📌 Deep conceptual clarity  
+- 📌 Language-level fluency  
+- 📌 Real problem-solving ability  
+
+🚫 No rushing into trends  
+✅ Building skills that *last 10+ years*
 
 ---
 
@@ -52,7 +57,7 @@ Speed comes later. Mastery comes first.
   <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
 </p>
 
-### 📊 Data & ML (Learning)
+### 📊 Data & ML (Exploration Phase)
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn&theme=dark" />
 </p>
@@ -64,7 +69,7 @@ Speed comes later. Mastery comes first.
 
 ---
 
-## 🧪 What I’m Working On
+## 🧪 Current Focus
 
 <table width="100%">
 <tr>
@@ -74,9 +79,9 @@ Speed comes later. Mastery comes first.
 ### 🧠 Programming Fundamentals  
 **C · Java · Python**
 
-- Strengthening logic & syntax  
 - Writing clean, readable code  
-- Building consistency through practice  
+- Strengthening core logic  
+- Practicing consistency daily  
 
 </td>
 
@@ -85,9 +90,9 @@ Speed comes later. Mastery comes first.
 ### 🌐 Frontend Foundations  
 **HTML · CSS · JavaScript**
 
-- Core web fundamentals  
 - Understanding how the web works  
-- No frameworks — intentionally  
+- Building without frameworks  
+- Focusing on fundamentals first  
 
 </td>
 
@@ -98,17 +103,18 @@ Speed comes later. Mastery comes first.
 
 ## 🧩 Problem Solving Journey
 
-<p align="center"><i>Tracking consistency, not speed.</i></p>
+<p align="center"><i>Consistency over intensity.</i></p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nipunndhiman?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </p>
 
-### 📌 DSA Status
-- 🚧 Deliberately postponed  
-- 🧠 Focusing on language fluency first  
-- 🟢 Will begin with **Java**  
-- 📊 Progress will be documented publicly  
+### 📌 DSA Roadmap
+
+- 🚧 Currently postponed (intentionally)  
+- 🧠 Building strong language foundation first  
+- 🟢 Will start with **Java (structured approach)**  
+- 📊 Progress will be tracked publicly  
 
 ---
 
@@ -124,7 +130,7 @@ Speed comes later. Mastery comes first.
 
 ---
 
-## 🔗 Find Me Online
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/nipunn-git">
@@ -146,8 +152,10 @@ Speed comes later. Mastery comes first.
 
 ---
 
+## ⚡ Final Note
+
 <p align="center">
-  <b>⚡ Learning honestly. Improving daily. No shortcuts.</b><br><br>
+  <b>Learning honestly. Improving daily. No shortcuts.</b><br><br>
   <sub>Foundations first. Hype later.</sub><br>
   <sub>— Nipun</sub>
 </p>
