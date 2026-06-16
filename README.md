@@ -150,7 +150,7 @@ Every project I build follows a few simple principles.
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,antigravity,vscode,cursor,numpy,pandas,matplotlib,pytorch,scikitlearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pytorch,scikitlearn&theme=dark"/>
 
 </p>
 
