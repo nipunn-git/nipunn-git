@@ -233,19 +233,19 @@ while (!expert)
 
 <br>
 
-## 🌐 Portfolio
+## - Portfolio
 
 A modern personal portfolio built completely from scratch to showcase my journey, projects, and technical growth.
 
 ---
 
-## 💡 Lumiere
+## - Lumiere
 
 An AI-focused project where I'm experimenting with intelligent systems while expanding my understanding of machine learning concepts.
 
 ---
 
-## 🏛️ GrievanceGrid
+## - GrievanceGrid
 
 A grievance management platform designed to simplify issue tracking through an organized and scalable workflow.
 
@@ -255,21 +255,21 @@ A grievance management platform designed to simplify issue tracking through an o
 
 These are my long-term flagship projects that I'm actively planning and designing.
 
-## 🛰️ Project Greenwich
+## - Plan Greenwich
 
 A large-scale project currently in development.
 
-**Status**
+#### **Status:**
 
 🔨 Under Active Development
 
 ---
 
-## 🏛️ Project Athens
+## - Project Athens
 
 Another major long-term project currently being designed alongside Plan Greenwich.
 
-**Status**
+#### **Status:**
 
 🔨 Under Active Development
 
