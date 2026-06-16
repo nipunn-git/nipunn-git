@@ -224,7 +224,25 @@ while (!expert)
 > **The goal is to become someone who can learn anything.**
 
 ---
+# 💻 Problem Solving
 
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/nipunndhiman?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/nipunndhiman/">
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
 ---
 
 # 🚀 Featured Projects
