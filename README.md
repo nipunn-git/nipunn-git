@@ -1,38 +1,51 @@
 <!-- ========================================================= -->
-<!--                      NIPUN DHIMAN                          -->
+<!--                     NIPUN DHIMAN                           -->
+<!--              Foundations First • AI Engineer              -->
 <!-- ========================================================= -->
 
-<p align="center">
+<div align="center">
 
-# Nipun Dhiman
+# 👋 Hi, I'm Nipun Dhiman
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Exploring+Machine+Learning;Foundations+First;Learning+in+Public;No+Shortcuts.+Just+Consistency."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate;Exploring+Machine+Learning;Foundations+First;Learning+in+Public;Future+ML+Engineer;No+Shortcuts.+Just+Consistency." />
 
-</p>
+<br>
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&style=for-the-badge&color=3B82F6"/>
 
-<img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile+Views&color=3b82f6&style=for-the-badge"/>
-
-<a href="https://github.com/nipunn-git">
 <img src="https://img.shields.io/github/followers/nipunn-git?style=for-the-badge&logo=github"/>
-</a>
 
-<a href="https://github.com/nipunn-git">
 <img src="https://img.shields.io/github/stars/nipunn-git?affiliations=OWNER&style=for-the-badge"/>
-</a>
 
-</p>
+</div>
 
 ---
 
-# 👋 Hello, World!
+# 👨‍💻 Hello, World!
 
-I'm **Nipun**, a Data Science undergraduate passionate about building a deep understanding of **Machine Learning**, **Deep Learning** , **Neural Networks** and **Software Engineering**.
+```python
+class Nipun:
 
-Instead of chasing trends, I'm investing in the fundamentals that compound over time.
+    def __init__(self):
+        self.role = "Data Science Undergraduate"
+        self.learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "Neural Networks",
+            "Software Engineering"
+        ]
 
-> **"Strong fundamentals compound. Shortcuts collapse."**
+        self.goal = "Become an ML Engineer"
+
+        self.philosophy = (
+            "Strong fundamentals compound. "
+            "Shortcuts collapse."
+        )
+```
+
+Instead of chasing trends, I'm investing my time in building **deep technical foundations**.
+
+I believe understanding **why** something works is more valuable than simply knowing **how** to use it.
 
 ---
 
@@ -42,34 +55,34 @@ Instead of chasing trends, I'm investing in the fundamentals that compound over 
                      BUILDING THE ENGINEER
                              │
                              ▼
-                  Programming Fundamentals
+                 Programming Fundamentals
                              │
                              ▼
-                        Mathematics
+                       Mathematics
                              │
                              ▼
                         Data Science
                              │
                              ▼
-                     Machine Learning
+                    Machine Learning
                              │
                              ▼
-                      Deep Learning 
+                     Deep Learning
                              │
                              ▼
-                        AI Engineering
+                     AI Engineering
                              │
                              ▼
-                      Neural Networks
+                    Neural Networks
 ```
 
-I believe technology changes far faster than principles.
+Technology changes.
 
-Frameworks come and go.
+Frameworks evolve.
 
-Programming languages evolve.
+Languages come and go.
 
-The engineers who stay valuable are the ones who understand **why things work**, not just **how to use them**.
+But **problem solving**, **mathematics**, and **computer science fundamentals** remain timeless.
 
 That's the engineer I'm working to become.
 
@@ -86,12 +99,12 @@ Role:
 Currently Learning:
   - Python
   - Java
-  - Machine learning
+  - Machine Learning
   - Data Science
 
 Interested In:
-  - Machine Learning
   - Artificial Intelligence
+  - Machine Learning
   - Deep Learning
   - Neural Networks
   - Open Source
@@ -103,7 +116,7 @@ Learning Style:
   Build → Break → Understand → Repeat
 
 Motto:
-  "Consistency beats motivation."
+  Consistency beats motivation.
 ```
 
 ---
@@ -114,142 +127,168 @@ Motto:
 
 I optimize for **understanding**.
 
-Every project I build follows a few simple principles.
+Every project I build follows these principles.
 
-- Build before optimizing.
-- Understand before memorizing.
-- Fundamentals over frameworks.
-- Consistency over intensity.
-- Keep learning public.
-- Write code you'll still be proud of next year.
-- Solve problems, don't collect tutorials.
+- ✅ Build before optimizing
+- ✅ Understand before memorizing
+- ✅ Fundamentals over frameworks
+- ✅ Consistency over intensity
+- ✅ Learn publicly
+- ✅ Read documentation
+- ✅ Solve problems instead of collecting tutorials
 
 ---
 
-# 📌 Currently Focused On
+# 🎯 Currently Focused On
 
 - 🧠 Strengthening programming fundamentals
-- 🌐 Learning advance Mathematics 
+- 📚 Advancing my mathematical foundation
 - 🐍 Becoming fluent in Python
-- 📊 Exploring Machine Learning
-- 🤖 Preparing for Data Science as well
-- 📚 Reading technical books and documentation
+- ☕ Improving Java
+- 📊 Exploring Data Science
+- 🤖 Learning Machine Learning
+- 📖 Reading technical books & documentation
 - 🚀 Building projects that solve real problems
 
 ---
 
 # ⚙️ Technology Stack
 
-<p align="center">
+<div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript&theme=dark"/>
+
+<br><br>
+
+### 🤖 AI & Data Science
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
+
+<br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas"/>
 
 <br><br>
 
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pytorch,scikitlearn&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
-</p>
+</div>
 
 ---
 
 # 📚 Learning Dashboard
 
-> **Progess Bar so Far**
+> **Current Progress**
 
 ```text
-Programming Fundamentals      ██████████░░░░░░░ 60%
+Programming Fundamentals    ██████████░░░░░░░░
 
-Python                        █████████░░░░░░░░ 55%
+Python                      █████████░░░░░░░░░
 
-Java                          ████████░░░░░░░░░ 50%
+Java                        ████████░░░░░░░░░░
 
-HTML • CSS • JavaScript       ███████░░░░░░░░░░ 45%
+HTML • CSS • JavaScript     ███████░░░░░░░░░░░
 
-Data Science                  █████░░░░░░░░░░░░ 35%
+Data Science                █████░░░░░░░░░░░░░
 
-Machine Learning              ██░░░░░░░░░░░░░░░ 15%
+Machine Learning            ██░░░░░░░░░░░░░░░░
 
-Deep Learning                 ░░░░░░░░░░░░░░░░░ 0%
+Deep Learning               ░░░░░░░░░░░░░░░░░░
 ```
 
 ---
 
----
-
-# 📖 Current Mindset
+# 💭 Current Mindset
 
 ```cpp
 while (!expert)
 {
     learn();
+
     build();
+
     fail();
+
     improve();
+
     repeat();
 }
 ```
+
+> **The goal isn't to finish learning.**
+>
+> **The goal is to become someone who can learn anything.**
+
+---
 
 ---
 
 # 🚀 Featured Projects
 
-> *Every project is another step toward becoming a better engineer.*
+> *Every project represents another step toward becoming a better engineer.*
 
-<table>
-<tr>
+<br>
 
-<td width="50%">
+## 🌐 Portfolio
 
-### Portfolio Website
-### Lumiere
-### GrievanceGrid
+A modern personal portfolio built completely from scratch to showcase my journey, projects, and technical growth.
 
-🚧 **Currently Building**
+---
 
-Working on 2 major projects which i say
-- Plan Greenwich
-- Plan Athens
-  
-</td>
+## 💡 Lumiere
 
-<td width="50%">
+An AI-focused project where I'm experimenting with intelligent systems while expanding my understanding of machine learning concepts.
 
-### 📊 Data Science Projects
+---
 
-A collection of notebooks and practical analyses.
+## 🏛️ GrievanceGrid
 
-**Tech**
+A grievance management platform designed to simplify issue tracking through an organized and scalable workflow.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+---
 
-🚧 **Work In Progress**
+# 🚧 Major Projects
 
-</td>
+These are my long-term flagship projects that I'm actively planning and designing.
 
-</tr>
+## 🛰️ Project Greenwich
 
-<tr>
-
-<td width="50%">
-
-### 🤖 Machine Learning Journey
-
-Algorithms, experiments and learning projects.
+A large-scale project currently in development.
 
 **Status**
 
-Coming Soon
+🔨 Under Active Development
 
-</td>
+---
 
-<td width="50%">
+## 🏛️ Project Athens
+
+Another major long-term project currently being designed alongside Plan Greenwich.
+
+**Status**
+
+🔨 Under Active Development
+
+---
+
+# 📊 Learning Repository
+
+Alongside my main projects, I'm continuously building smaller repositories while learning.
+
+Current areas include:
+
+- 📊 Data Science
+- 🤖 Machine Learning
+- 🐍 Python
+- ☕ Java
+- 📚 Programming Fundamentals
+- 🧠 Mathematics
+
+These repositories document my learning process and practical experiments.
 
 ---
 
@@ -281,26 +320,52 @@ Coming Soon
 
 ---
 
-# 🏆 GitHub Achievements
+# 🎯 Current Goals
+
+- [ ] Master Python
+- [ ] Learn Machine Learning Fundamentals
+- [ ] Explore Deep Learning
+- [ ] Complete Portfolio Website
+- [ ] Complete Project Greenwich
+- [ ] Complete Project Athens
+- [ ] Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nipunn-git&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<a href="https://github.com/nipunn-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nipun-712b2536b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nipunndhiman@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/nipunndhiman/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
+## 💭 Final Thought
 
-> *(Enable this after setting up a GitHub Action.)*
+> *"The goal isn't to know every technology.*
+>
+> *The goal is to become the kind of engineer who can learn any technology."*
 
-<img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+**Learning honestly. Building consistently. Improving every day.**
 
-</p>
+⭐ Thanks for stopping by.
 
----
-
----
+</div>
