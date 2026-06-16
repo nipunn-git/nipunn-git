@@ -144,7 +144,7 @@ Every project I build follows these principles.
 - 🧠 Strengthening programming fundamentals
 - 📚 Advancing my mathematical foundation
 - 🐍 Becoming fluent in Python
-- ☕ Improving Java
+- ☕ Improving Java and DSA
 - 📊 Exploring Data Science
 - 🤖 Learning Machine Learning
 - 📖 Reading technical books & documentation
@@ -162,7 +162,7 @@ Every project I build follows these principles.
 
 <br><br>
 
-### 🤖 AI & Data Science
+### 🤖 ML & Data Science
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark"/>
 
