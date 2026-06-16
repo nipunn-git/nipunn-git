@@ -194,3 +194,113 @@ while (!expert)
 ```
 
 ---
+
+# 🚀 Featured Projects
+
+> *Every project is another step toward becoming a better engineer.*
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Portfolio Website
+### Lumiere
+### GrievanceGrid
+
+🚧 **Currently Building**
+
+Working on 2 major projects which i say
+- Plan Greenwich
+- Plan Athens
+  
+</td>
+
+<td width="50%">
+
+### 📊 Data Science Projects
+
+A collection of notebooks and practical analyses.
+
+**Tech**
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+🚧 **Work In Progress**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Machine Learning Journey
+
+Algorithms, experiments and learning projects.
+
+**Status**
+
+Coming Soon
+
+</td>
+
+<td width="50%">
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nipunn-git&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nipunn-git&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nipunn-git&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+> *(Enable this after setting up a GitHub Action.)*
+
+<img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+---
