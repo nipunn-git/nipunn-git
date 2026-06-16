@@ -322,7 +322,17 @@ Another major long-term project currently being designed alongside Plan Greenwic
 </p>
 
 ---
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
 ---
 
 # 🌐 Connect With Me
