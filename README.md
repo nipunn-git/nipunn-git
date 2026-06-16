@@ -11,9 +11,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&style=for-the-badge&color=3B82F6"/>
-<p align="center">
-
 <a href="https://github.com/nipunn-git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
