@@ -6,7 +6,7 @@
 
 # Nipun Dhiman
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Building+AI+Systems;Foundations+First;Learning+in+Public;Machine+Learning+Engineer+in+Progress;No+Shortcuts.+Just+Consistency."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Science+Undergraduate;Exploring+Machine+Learning;Foundations+First;Learning+in+Public;No+Shortcuts.+Just+Consistency."/>
 
 </p>
 
@@ -28,7 +28,7 @@
 
 # 👋 Hello, World!
 
-I'm **Nipun**, a Data Science undergraduate passionate about building a deep understanding of **Computer Science**, **Artificial Intelligence**, and **Software Engineering**.
+I'm **Nipun**, a Data Science undergraduate passionate about building a deep understanding of **Machine Learning**, **Deep Learning** , **Neural Networks** and **Software Engineering**.
 
 Instead of chasing trends, I'm investing in the fundamentals that compound over time.
 
@@ -45,9 +45,6 @@ Instead of chasing trends, I'm investing in the fundamentals that compound over 
                   Programming Fundamentals
                              │
                              ▼
-                    Computer Science
-                             │
-                             ▼
                         Mathematics
                              │
                              ▼
@@ -57,10 +54,13 @@ Instead of chasing trends, I'm investing in the fundamentals that compound over 
                      Machine Learning
                              │
                              ▼
-                      Deep Learning
+                      Deep Learning 
                              │
                              ▼
                         AI Engineering
+                             │
+                             ▼
+                      Neural Networks
 ```
 
 I believe technology changes far faster than principles.
@@ -129,11 +129,10 @@ Every project I build follows a few simple principles.
 # 📌 Currently Focused On
 
 - 🧠 Strengthening programming fundamentals
-- 🌐 Building projects with HTML, CSS & JavaScript
+- 🌐 Learning advance Mathematics 
 - 🐍 Becoming fluent in Python
-- ☕ Improving Java proficiency
-- 📊 Exploring Data Science
-- 🤖 Preparing for Machine Learning
+- 📊 Exploring Machine Learning
+- 🤖 Preparing for Data Science as well
 - 📚 Reading technical books and documentation
 - 🚀 Building projects that solve real problems
 
@@ -149,15 +148,9 @@ Every project I build follows a few simple principles.
 
 <br><br>
 
-### 📊 Data Science
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn,jupyter&theme=dark"/>
-
-<br><br>
-
 ### 🛠 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,antigravity,vscode,cursor,numpy,pandas,matplotlib,pytorch,scikitlearn&theme=dark"/>
 
 </p>
 
@@ -165,7 +158,7 @@ Every project I build follows a few simple principles.
 
 # 📚 Learning Dashboard
 
-> **Current Progress**
+> **Progess Bar so Far**
 
 ```text
 Programming Fundamentals      ██████████░░░░░░░ 60%
@@ -184,54 +177,6 @@ Deep Learning                 ░░░░░░░░░░░░░░░░�
 ```
 
 ---
-
-# 🗺️ Learning Roadmap
-
-```text
-✔ Programming Logic
-        │
-        ▼
-✔ Python
-        │
-        ▼
-✔ Java
-        │
-        ▼
-✔ Web Fundamentals
-        │
-        ▼
-◉ Data Science
-        │
-        ▼
-○ Machine Learning
-        │
-        ▼
-○ Deep Learning
-        │
-        ▼
-○ AI Engineering
-```
-
-Legend
-
-✔ Completed Foundation
-
-◉ Currently Learning
-
-○ Planned
-
----
-
-# 🎯 2026 Objectives
-
-- [ ] Build a professional portfolio website
-- [ ] Master Python fundamentals
-- [ ] Become confident in Java
-- [ ] Build 10+ quality projects
-- [ ] Learn Machine Learning
-- [ ] Start Deep Learning
-- [ ] Contribute to Open Source
-- [ ] Secure my first Software / AI Internship
 
 ---
 
