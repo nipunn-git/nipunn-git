@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/github/followers/nipunn-git?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://github.com/nipunn-git">
+<img src="https://img.shields.io/github/stars/nipunn-git?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
