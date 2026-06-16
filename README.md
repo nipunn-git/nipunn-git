@@ -12,10 +12,39 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&style=for-the-badge&color=3B82F6"/>
+<p align="center">
 
-<img src="https://img.shields.io/github/followers/nipunn-git?style=for-the-badge&logo=github"/>
+<a href="https://github.com/nipunn-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/nipunn-git?affiliations=OWNER&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/nipun-712b2536b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nipunndhiman/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/nipunndhiman">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/nipundhiman21">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:nipunndhiman@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&style=for-the-badge&color=3B82F6"/>
+
+</p>
 
 </div>
 
@@ -333,29 +362,7 @@ Another major long-term project currently being designed alongside Plan Greenwic
 </p>
 
 ---
----
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/nipunn-git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nipun-712b2536b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nipunndhiman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/nipunndhiman/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</p>
 
 ---
 
