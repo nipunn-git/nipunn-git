@@ -275,21 +275,6 @@ Another major long-term project currently being designed alongside Plan Greenwic
 
 ---
 
-# 📊 Learning Repository
-
-Alongside my main projects, I'm continuously building smaller repositories while learning.
-
-Current areas include:
-
-- 📊 Data Science
-- 🤖 Machine Learning
-- 🐍 Python
-- ☕ Java
-- 📚 Programming Fundamentals
-- 🧠 Mathematics
-
-These repositories document my learning process and practical experiments.
-
 ---
 
 # 📈 GitHub Analytics
@@ -319,16 +304,6 @@ These repositories document my learning process and practical experiments.
 </p>
 
 ---
-
-# 🎯 Current Goals
-
-- [ ] Master Python
-- [ ] Learn Machine Learning Fundamentals
-- [ ] Explore Deep Learning
-- [ ] Complete Portfolio Website
-- [ ] Complete Project Greenwich
-- [ ] Complete Project Athens
-- [ ] Contribute to Open Source
 
 ---
 
