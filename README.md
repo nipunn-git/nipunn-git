@@ -69,31 +69,6 @@ I believe understanding **why** something works is more valuable than simply kno
 
 ---
 
-# 🚀 Mission
-
-```text
-                     BUILDING THE ENGINEER
-                             │
-                             ▼
-                 Programming Fundamentals
-                             │
-                             ▼
-                       Mathematics
-                             │
-                             ▼
-                        Data Science
-                             │
-                             ▼
-                    Machine Learning
-                             │
-                             ▼
-                     Deep Learning
-                             │
-                             ▼
-                     AI Engineering
-                             │
-                             ▼
-                    Neural Networks
 ```
 
 Technology changes.
@@ -141,33 +116,13 @@ Motto:
 
 ---
 
-# ⚡ Engineering Principles
-
-> I don't optimize for **speed**.
-
-I optimize for **understanding**.
-
-Every project I build follows these principles.
-
-- ✅ Build before optimizing
-- ✅ Understand before memorizing
-- ✅ Fundamentals over frameworks
-- ✅ Consistency over intensity
-- ✅ Learn publicly
-- ✅ Read documentation
-- ✅ Solve problems instead of collecting tutorials
-
----
-
 # 🎯 Currently Focused On
 
-- 🧠 Strengthening programming fundamentals
 - 📚 Advancing my mathematical foundation
 - 🐍 Becoming fluent in Python
-- ☕ Improving Java and DSA
+- ☕ Improving C and DSA
 - 📊 Exploring Data Science
-- 🤖 Learning Machine Learning
-- 📖 Reading technical books & documentation
+- 🤖 Machine Learning
 - 🚀 Building projects that solve real problems
 
 ---
@@ -200,24 +155,7 @@ Every project I build follows these principles.
 
 ---
 
-# 📚 Learning Dashboard
 
-> **Current Progress**
-
-```text
-Programming Fundamentals    ██████████░░░░░░░░
-
-Python                      █████████░░░░░░░░░
-
-Java                        ████████░░░░░░░░░░
-
-HTML • CSS • JavaScript     ███████░░░░░░░░░░░
-
-Data Science                █████░░░░░░░░░░░░░
-
-Machine Learning            ██░░░░░░░░░░░░░░░░
-
-Deep Learning               ░░░░░░░░░░░░░░░░░░
 ```
 
 ---
