@@ -69,19 +69,8 @@ I believe understanding **why** something works is more valuable than simply kno
 
 ---
 
-```
 
-Technology changes.
 
-Frameworks evolve.
-
-Languages come and go.
-
-But **problem solving**, **mathematics**, and **computer science fundamentals** remain timeless.
-
-That's the engineer I'm working to become.
-
----
 
 # 🧠 About Me
 
