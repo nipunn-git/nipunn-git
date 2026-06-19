@@ -37,12 +37,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nipunn-git&label=Profile%20Views&style=for-the-badge&color=3B82F6"/>
-
-</p>
-
 </div>
 
 ---
