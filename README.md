@@ -144,11 +144,6 @@ Motto:
 
 ---
 
-
-```
-
----
-
 # 💭 Current Mindset
 
 ```cpp
@@ -186,59 +181,6 @@ while (!expert)
 </a>
 
 </p>
-
----
-
-# 📈 GitHub Analytics
----
-
-# 🚀 Featured Projects
-
-> *Every project represents another step toward becoming a better engineer.*
-
-<br>
-
-## - Portfolio
-
-A modern personal portfolio built completely from scratch to showcase my journey, projects, and technical growth.
-
----
-
-## - Lumiere
-
-An AI-focused project where I'm experimenting with intelligent systems while expanding my understanding of machine learning concepts.
-
----
-
-## - GrievanceGrid
-
-A grievance management platform designed to simplify issue tracking through an organized and scalable workflow.
-
----
-
-# 🚧 Major Projects
-
-These are my long-term flagship projects that I'm actively planning and designing.
-
-## - Plan Greenwich
-
-A large-scale project currently in development.
-
-#### **Status:**
-
-🔨 Under Active Development
-
----
-
-## - Project Athens
-
-Another major long-term project currently being designed alongside Plan Greenwich.
-
-#### **Status:**
-
-🔨 Under Active Development
-
----
 
 ---
 
