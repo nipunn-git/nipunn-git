@@ -188,20 +188,11 @@ while (!expert)
 
 <p align="center">
 
-<!-- Overall GitHub Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=60"/>
-
-<!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"/>
+<!-- Contribution Stats Only -->
+<img src="https://github-contributions.vercel.app/api/?username=nipunn-git&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<p align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nipunn-git&theme=tokyonight&hide_border=true&cache_seconds=60"/>
-
-</p>
 
 
 
