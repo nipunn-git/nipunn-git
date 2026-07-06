@@ -183,24 +183,19 @@ while (!expert)
 </p>
 
 ---
-
 # 📈 GitHub Analytics
 
 <p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<!-- Overall GitHub Stats -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=60"/>
-
-<!-- Top Languages -->
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60"/>
-
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nipunn-git&theme=tokyonight&hide_border=true&cache_seconds=60"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=nipunn-git&theme=tokyonight&hide_border=true"/>
 </p>
 
 
