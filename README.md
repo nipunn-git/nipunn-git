@@ -1,11 +1,11 @@
 <!-- ========================================================= -->
-<!--                     👋NIPUN DHIMAN                           -->
+<!--                     NIPUN DHIMAN                           -->
 <!--              Foundations First • AI Engineer              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Hi, I'm Nipun Dhiman
+# 👋🏻Hi, I'm Nipun Dhiman
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Data+Science+Undergraduate;Exploring+Machine+Learning;Foundations+First;Learning+in+Public;No+Shortcuts.+Just+Consistency." />
 
