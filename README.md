@@ -213,7 +213,7 @@
 <sub>If the card doesn't load, the profile is here: <a href="https://leetcode.com/u/nipunndhiman/">leetcode.com/u/nipunndhiman</a></sub>
 
 <br /><br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
+
 
 
 <p align="center">
