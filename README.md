@@ -105,23 +105,114 @@
 | `b2` | **[PromptHub](https://promp-thub.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
 | `c2` | **GreenRoute** | Sustainable mobility · travel tracking · greener transportation | `IN DEVELOPMENT` |
 
+<div align="center">
+<sub>Live project tiles open their deployments. AirOS links directly to its GitHub repository. GreenRoute is not linked while it remains under development.</sub>
+</div>
+
 <br />
 
 <div align="center">
-<code>SECTION 02 / TOOLCHAIN</code>
+<div align="center">
 
-## STACK
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=620&height=35&lines=SECTION+02+%2F+TECH+MATRIX;TOOLS+FOR+BUILDING+INTELLIGENT+SYSTEMS;STACK+SCAN+INITIALIZED..." alt="Tech matrix: tools for building intelligent systems" />
 
-**Using**
+# TECH MATRIX
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" alt="Languages and tools in use: Python, Java, C, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
-
-**Exploring**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark" alt="Technologies being explored: NumPy, Pandas, scikit-learn, PyTorch" />
+<sub>A categorized map of the tools and technologies I use or am exploring.</sub>
 
 <br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:22D3EE,100:070B14&height=3" alt="" width="100%" />
+
+</div>
+
+### `01 / PROGRAMMING LANGUAGES`
+<sub>THE CORE TOOLCHAIN</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" alt="Python, C, Java, JavaScript" />
+</p>
+
+---
+
+### `02 / WEB ENGINEERING`
+<sub>INTERFACES · FRONTEND · APPLICATIONS</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS" />
+</p>
+
+---
+
+### `03 / MACHINE LEARNING & AI`
+<sub>MODELS · INFERENCE · INTELLIGENT SYSTEMS</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" alt="PyTorch, scikit-learn, TensorFlow" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" alt="NumPy and Pandas" />
+</p>
+
+---
+
+### `04 / DATA SCIENCE`
+<sub>DATA WRANGLING · NUMERICAL COMPUTING · ANALYSIS</sub>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,jupyter" alt="NumPy, Pandas, Matplotlib, Seaborn, Jupyter" />
+</p>
+
+---
+
+### `05 / COMPUTER VISION`
+<sub>VISUAL PERCEPTION · HAND TRACKING · IMAGE PIPELINES</sub>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,mediapipe" alt="OpenCV and MediaPipe" />
+</p>
+
+<sub>Exploration direction: real-time vision, gesture recognition, and perception systems.</sub>
+
+---
+
+### `06 / BACKEND & APIs`
+<sub>SERVICES · DATA FLOW · INTEGRATION</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,sqlite,firebase&theme=dark" alt="FastAPI, Node.js, Express, SQLite, Firebase" />
+</p>
+
+---
+
+### `07 / DEVELOPER TOOLING`
+<sub>VERSION CONTROL · BUILD · WORKFLOW</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash" />
+</p>
+
+---
+
+### `08 / 3D, SIMULATION & AUTONOMY`
+<sub>SPATIAL SYSTEMS · ROBOTICS · AUTONOMOUS VEHICLES</sub>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" alt="Three.js and Blender" />
+</p>
+
+<sub>Areas I am working toward: robotics, reinforcement learning, LiDAR perception, sensor fusion, planning, and control. These are learning directions—not claims of mastery.</sub>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
+
+<sub><code>STACK STATUS: EVOLVING</code> &nbsp;·&nbsp; <code>LEARN → BUILD → TEST → REFINE</code></sub>
+
+</div>
+
+<br />
 
 <code>SECTION 03 / PROBLEM SOLVING</code>
 
