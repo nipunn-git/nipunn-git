@@ -213,7 +213,7 @@
 <sub>If the card doesn't load, the profile is here: <a href="https://leetcode.com/u/nipunndhiman/">leetcode.com/u/nipunndhiman</a></sub>
 
 <br /><br />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
 
 
 <p align="center">
@@ -233,7 +233,22 @@
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation moving across my GitHub contribution grid" width="100%" />
+<!--
+AUTO-UPDATE SETUP:
+Add .github/workflows/snake.yml to nipunn-git/nipunn-git using Platane/snk.
+Run it on a schedule and on pushes, grant contents: write permission, and publish
+the generated SVG to the output branch. The image updates after the workflow succeeds.
+-->
+
+<div align="center">
+
+## Contribution Snake
+
+<sub>GREEN SQUARES · AUTO-UPDATED WITH GITHUB ACTIONS</sub>
+
+<img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake.svg" alt="Contribution Snake eating green contribution squares" width="100%" />
+
+</div>
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:22D3EE,100:070B14&height=4" alt="" width="100%" />
