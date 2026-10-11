@@ -55,33 +55,33 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://getfinwise.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=FINWISE%20AI&fontColor=E6F1FF&fontSize=44&fontAlign=50&fontAlignY=38&desc=%24%20%C2%B7%20AI%20finance%20%C2%B7%20LIVE%20PROJECT&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="FinWise AI: AI-powered personal finance, financial mentorship, and scam detection. Live project." width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=FINWISE%20AI&fontColor=E6F1FF&fontSize=44&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="FinWise AI: AI-powered personal finance, financial mentorship, and scam detection. Live project." width="100%" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://zir0.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=ZIRO&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&desc=%E2%97%89%20%C2%B7%20financial%20inclusion%20%C2%B7%20LIVE&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="Ziro: AI-powered financial inclusion, alternative credit scoring, and offline cryptographic transactions. Live project." width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=ZIRO&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Ziro: AI-powered financial inclusion, alternative credit scoring, and offline cryptographic transactions. Live project." width="100%" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://uselumiere.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=LUMIERE&fontColor=E6F1FF&fontSize=43&fontAlign=50&fontAlignY=38&desc=%2B%20%C2%B7%20clinical%20intelligence%20%C2%B7%20LIVE&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="Lumiere: clinical data synthesis and patient identity resolution. Live project." width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=LUMIERE&fontColor=E6F1FF&fontSize=43&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Lumiere: clinical data synthesis and patient identity resolution. Live project." width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/nipunn-git/CV-AirOS">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=AirOS&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&desc=%5B%20%2B%20%2B%20%2B%20%5D%20%C2%B7%20gesture%20interface&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="AirOS: computer vision, hand tracking, and gesture-controlled computing. Repository available." width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=AirOS&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="AirOS: computer vision, hand tracking, and gesture-controlled computing. Repository available." width="100%" />
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://promp-thub.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=PromptHub&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&desc=%5B%5D%20%5B%5D%20%5B%5D%20%C2%B7%20AI%20prompts%20%C2%B7%20LIVE&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="PromptHub: AI prompt repositories, optimization, and testing. Live project." width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=PromptHub&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="PromptHub: AI prompt repositories, optimization, and testing. Live project." width="100%" />
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=GreenRoute&fontColor=E6F1FF&fontSize=38&fontAlign=50&fontAlignY=38&desc=%E2%86%97%20%C2%B7%20sustainable%20mobility%20%C2%B7%20IN%20DEVELOPMENT&descSize=14&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="GreenRoute: sustainable mobility and greener transportation. Currently in development." width="100%" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=GreenRoute&fontColor=E6F1FF&fontSize=38&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="GreenRoute: sustainable mobility and greener transportation. Currently in development." width="100%" />
     </td>
   </tr>
 </table>
