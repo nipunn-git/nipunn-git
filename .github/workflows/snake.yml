@@ -15,10 +15,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: Generate snake animation (including private contribution activity)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PAT_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
