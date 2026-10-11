@@ -1,20 +1,11 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  PROJECT CONFIG: edit project links here, then in the tiles below ║
-  ║  Every tile below uses a REPLACE-WITH-REPOSITORY placeholder.     ║
-  ║  Search for "REPLACE" and swap in real URLs only once they exist. ║
-  ║                                                                   ║
-  ║  a2 VAELON          -> https://github.com/nipunn-git/REPLACE-VAELON       ║
-  ║  b2 AirOS           -> https://github.com/nipunn-git/REPLACE-AIROS        ║
-  ║  c2 FoveaNav        -> https://github.com/nipunn-git/REPLACE-FOVEANAV     ║
-  ║  d2 AI Race Eng.    -> https://github.com/nipunn-git/REPLACE-RACE-ENGINEER║
-  ║  a1 SoundOS         -> https://github.com/nipunn-git/REPLACE-SOUNDOS      ║
-  ║  b1 PromptHub       -> https://github.com/nipunn-git/REPLACE-PROMPTHUB    ║
-  ║  c1 NeuroDrive      -> https://github.com/nipunn-git/REPLACE-NEURODRIVE   ║
-  ║  d1 Project 08      -> https://github.com/nipunn-git/REPLACE-PROJECT-08   ║
-  ║                                                                   ║
-  ║  Tile colors: dark = 070B14, light = 0F1B2E, border = 1E3A5F      ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  PROJECT BOARD LINKS
+  FinWise AI: https://getfinwise.vercel.app/
+  Ziro: https://zir0.vercel.app/
+  Lumiere: https://uselumiere.vercel.app/
+  AirOS: https://github.com/nipunn-git/CV-AirOS
+  PromptHub: https://promp-thub.vercel.app/
+  GreenRoute: in development; no public link yet.
 -->
 
 <div align="center">
@@ -103,6 +94,8 @@ THE BOARD
 
 <code>FIELD NOTES</code>
 
+</div>
+
 SQ
 
 PROJECT
@@ -159,76 +152,14 @@ Sustainable mobility · travel tracking · greener transportation
 
 IN DEVELOPMENT
 
+<div align="center">
 <sub>Live project tiles open their deployments. AirOS links directly to its GitHub repository. GreenRoute is not linked while it remains under development.</sub>
-
 </div>
 
 <br />
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
-
-<code>SECTION 02 / FOUNDATIONS</code>
-
-WHAT I'M BUILDING TOWARD
-
-<sub>Learning directions, not claims of mastery.</sub>
-
-</div>
-
-ID
-
-DOMAIN
-
-FOCUS
-
-01
-
-MATHEMATICS
-
-Linear algebra · probability · statistics · optimization
-
-02
-
-INTELLIGENCE
-
-Machine learning · deep learning · reinforcement learning
-
-03
-
-PERCEPTION
-
-Computer vision · LiDAR · localization · sensor fusion
-
-04
-
-AUTONOMY
-
-Robotics · planning · control systems · autonomous vehicles
-
-05
-
-INTERACTION
-
-Gesture interfaces · voice-first systems · intelligent computing
-
-<br />
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
-
-<code>SECTION 03 / ROADMAP</code>
-
-ENGINEERING TRAJECTORY
-
-<code>MATHEMATICS</code> → <code>MACHINE LEARNING</code> → <code>DEEP LEARNING</code> → <code>COMPUTER VISION</code> → <code>ROBOTICS & CONTROL</code> → <code>REINFORCEMENT LEARNING</code> → <code>AUTONOMOUS SYSTEMS</code>
-
-<sub>Direction of travel, not a list of completed stages. Currently: Data Science undergraduate, building the foundations.</sub>
-
-<br /><br />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
-
-<code>SECTION 04 / TOOLCHAIN</code>
+<code>SECTION 02 / TOOLCHAIN</code>
 
 STACK
 
@@ -243,7 +174,7 @@ Exploring
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
 
-<code>SECTION 05 / PROBLEM SOLVING</code>
+<code>SECTION 03 / PROBLEM SOLVING</code>
 
 PROBLEM SOLVING
 
@@ -256,7 +187,7 @@ PROBLEM SOLVING
 <br /><br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
 
-<code>SECTION 06 / DASHBOARD</code>
+<code>SECTION 04 / DASHBOARD</code>
 
 GITHUB TELEMETRY
 
