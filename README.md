@@ -59,7 +59,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://leetcode.com/u/nipunndhimn/" title="LeetCode">
+      <a href="https://leetcode.com/u/nipunndhiman/" title="LeetCode">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
       </a>
     </td>
