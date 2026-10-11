@@ -105,10 +105,6 @@
 | `b2` | **[PromptHub](https://promp-thub.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
 | `c2` | **GreenRoute** | Sustainable mobility · travel tracking · greener transportation | `IN DEVELOPMENT` |
 
-<div align="center">
-<sub>Live project tiles open their deployments. AirOS links directly to its GitHub repository. GreenRoute is not linked while it remains under development.</sub>
-</div>
-
 <br />
 
 <div align="center">
