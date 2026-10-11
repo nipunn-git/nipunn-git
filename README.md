@@ -15,18 +15,18 @@
 <!-- INSTAGRAM-DM-INSPIRED CHAT PREVIEW -->
 <div align="center">
 
-<a href="https://github.com/nipunn-git">
-  <img src="./assets/nipun-dm-chat.svg" alt="Nipun AI — Instagram DM-inspired chat preview" width="100%" />
+<a href="https://nipun-ai.onrender.com">
+  <img src="./assets/nipun-dm-chat.svg" alt="Open Nipun AI — Instagram DM-inspired chat preview" width="100%" />
 </a>
 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/nipunn-git"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-17131F?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a></td>
-    <td align="center"><a href="mailto:nipunndhiman@gmail.com"><img src="https://img.shields.io/badge/CHAT%20WITH%20ME-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Contact Nipun" /></a></td>
+    <td align="center"><a href="https://nipun-ai.onrender.com"><img src="https://img.shields.io/badge/CHAT%20WITH%20NIPUN%20AI-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Chat with Nipun AI" /></a></td>
   </tr>
 </table>
 
-<sub>DM-INSPIRED PROFILE CHAT · LIVE AI CHATBOT WILL OPEN AS A SEPARATE APP</sub>
+<sub>DM-INSPIRED PROFILE CHAT · CLICK THE PREVIEW OR BUTTON TO CHAT WITH NIPUN AI</sub>
 
 </div>
 
