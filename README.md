@@ -12,27 +12,57 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,60:0B1F3A,100:0E3A5F&height=300&section=header&text=NIPUN%20DHIMAN&fontColor=F8FAFC&fontSize=90&fontAlign=50&fontAlignY=42&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20AUTONOMY.&descSize=30&descAlign=50&descAlignY=64&animation=twinkling" alt="NIPUN DHIMAN. Engineering intelligence. Building autonomy." width="100%" />
 
-<a href="https://github.com/nipunn-git">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&height=36&lines=Exploring+the+systems+that+let+machines+perceive%2C+reason%2C+learn%2C+and+act.;Understand+the+system.+Build+the+intelligence.+Make+it+real." alt="Exploring the systems that let machines perceive, reason, learn, and act. Understand the system. Build the intelligence. Make it real." />
-</a>
+<!-- INSTAGRAM-DM-INSPIRED CHAT PREVIEW -->
+<div align="center">
 
 <br />
 
-<code>SYSTEM / NIPUN.DHIMAN</code> &nbsp;·&nbsp; <code>DOMAIN / INTELLIGENT SYSTEMS</code> &nbsp;·&nbsp; <code>TRAJECTORY / AI → ROBOTICS → AUTONOMY</code>
+<table width="620" cellpadding="0" cellspacing="0">
+  <tr>
+    <td bgcolor="#111827" colspan="2" align="left">
+      <table width="100%" cellpadding="12" cellspacing="0">
+        <tr>
+          <td width="52" align="center"><img src="https://img.shields.io/badge/N-22D3EE?style=for-the-badge&labelColor=111827" alt="Nipun avatar" /></td>
+          <td align="left"><strong><font color="#F9FAFB">Nipun Dhiman</font></strong><br /><sub>AI · BUILDING · AUTONOMY</sub></td>
+          <td align="right"><code>DM / 01</code></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0B1220" colspan="2" align="center">
+      <br />
+      <sub>YOU'RE NOW CHATTING WITH</sub><br />
+      <strong>THE PERSON BEHIND THE PROJECTS</strong>
+      <br /><br />
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0B1220" colspan="2" align="left">
+      <table width="100%" cellpadding="10" cellspacing="0">
+        <tr><td width="12%" valign="top"><img src="https://img.shields.io/badge/N-22D3EE?style=flat-square&labelColor=111827" alt="Nipun" /></td><td bgcolor="#1F2937" align="left"><font color="#F9FAFB">Hey! I'm Nipun — I build things around AI, intelligent systems, and autonomy. What are you curious about?</font></td></tr>
+        <tr><td></td><td align="right"><table cellpadding="8" cellspacing="0"><tr><td bgcolor="#123B55"><font color="#E0F2FE">Tell me about your projects</font></td></tr></table></td></tr>
+        <tr><td width="12%" valign="top"><img src="https://img.shields.io/badge/N-22D3EE?style=flat-square&labelColor=111827" alt="Nipun" /></td><td bgcolor="#1F2937" align="left"><font color="#F9FAFB">Pick a project from the board below, or reach out directly. I'm always up for discussing ideas, collaboration, and engineering.</font></td></tr>
+      </table>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#111827" colspan="2" align="center">
+      <br />
+      <a href="https://github.com/nipunn-git"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore projects on GitHub" /></a>
+      &nbsp;
+      <a href="mailto:nipunndhiman@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-123B55?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Start a conversation by email" /></a>
+      <br /><br />
+      <sub>THIS IS THE PROFILE CHAT PREVIEW · USE THE LINKS TO CONNECT</sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
-
-<a href="https://github.com/nipunn-git"><img src="https://img.shields.io/badge/GITHUB-nipunn--git-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub: nipunn-git" /></a>
-<a href="https://www.linkedin.com/in/nipun-712b2536b"><img src="https://img.shields.io/badge/LINKEDIN-Nipun%20Dhiman-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn: Nipun Dhiman" /></a>
+</div>
 
 <br />
-
-<a href="https://leetcode.com/u/nipunndhiman/"><img src="https://img.shields.io/badge/-LeetCode-070B14?style=flat-square&logo=leetcode&logoColor=22D3EE" alt="LeetCode" /></a>
-<a href="https://x.com/nipundhiman21"><img src="https://img.shields.io/badge/-X-070B14?style=flat-square&logo=x&logoColor=22D3EE" alt="X (Twitter)" /></a>
-<a href="https://instagram.com/nipunndhiman"><img src="https://img.shields.io/badge/-Instagram-070B14?style=flat-square&logo=instagram&logoColor=22D3EE" alt="Instagram" /></a>
-<a href="mailto:nipunndhiman@gmail.com"><img src="https://img.shields.io/badge/-Email-070B14?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email: nipunndhiman@gmail.com" /></a>
-
-<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:22D3EE,100:070B14&height=4" alt="" width="100%" />
 
@@ -213,7 +243,7 @@
 <sub>If the card doesn't load, the profile is here: <a href="https://leetcode.com/u/nipunndhiman/">leetcode.com/u/nipunndhiman</a></sub>
 
 <br /><br />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
 
 
 <p align="center">
