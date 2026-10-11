@@ -27,7 +27,7 @@
 
 <br />
 
-<code>SYSTEM / NIPUN.DHIMAN</code> &nbsp;·&nbsp; <code>DOMAIN / INTELLIGENT SYSTEMS</code> &nbsp;·&nbsp; <code>TRAJECTORY / AI → ROBOTICS → AUTONOMY</code>
+<code>SYSTEM / NIPUN.DHIMAN</code>  ·  <code>DOMAIN / INTELLIGENT SYSTEMS</code>  ·  <code>TRAJECTORY / AI → ROBOTICS → AUTONOMY</code>
 
 <br /><br />
 
@@ -53,64 +53,44 @@
 
 <code>SECTION 01 / PROJECT BOARD</code>
 
-## THE BOARD
+THE BOARD
 
-<sub>Eight squares. Each one is a project direction, labeled by status.<br />
-<code>CONCEPT</code> = idea stage &nbsp;·&nbsp; <code>EXPERIMENTAL</code> = early exploration &nbsp;·&nbsp; <code>IN DEVELOPMENT</code> = placeholder</sub>
+<sub>Six projects. Six directions in applied AI, intelligent systems, and engineering.<br />
+<code>LIVE PROJECT</code> = deployed application  ·  <code>REPOSITORY</code> = source code available  ·  <code>IN DEVELOPMENT</code> = work in progress</sub>
 
 <br /><br />
 
 <table>
   <tr>
-    <!-- a2 · VAELON · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-VAELON">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=900&text=VAELON&fontColor=E6F1FF&fontSize=100&fontAlign=50&fontAlignY=40&desc=%28%28%20o%20%29%29%20%C2%B7%20orbit%20core%20%C2%B7%20CONCEPT&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="a2 VAELON: AI systems and human-computer interaction. Concept." width="100%" />
+    <td align="center" width="33%">
+      <a href="https://getfinwise.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=FINWISE%20AI&fontColor=E6F1FF&fontSize=44&fontAlign=50&fontAlignY=38&desc=%24%20%C2%B7%20AI%20finance%20%C2%B7%20LIVE%20PROJECT&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="FinWise AI: AI-powered personal finance, financial mentorship, and scam detection. Live project." width="100%" />
       </a>
     </td>
-    <!-- b2 · AirOS · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-AIROS">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=900&text=AirOS&fontColor=E6F1FF&fontSize=100&fontAlign=50&fontAlignY=40&desc=%5B%20%2B%20%2B%20%2B%20%5D%20%C2%B7%20hand%20grid%20%C2%B7%20EXPERIMENTAL&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="b2 AirOS: computer vision and gesture interfaces. Experimental." width="100%" />
+    <td align="center" width="33%">
+      <a href="https://zir0.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=ZIRO&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&desc=%E2%97%89%20%C2%B7%20financial%20inclusion%20%C2%B7%20LIVE&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="Ziro: AI-powered financial inclusion, alternative credit scoring, and offline cryptographic transactions. Live project." width="100%" />
       </a>
     </td>
-    <!-- c2 · FoveaNav · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-FOVEANAV">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=900&text=FoveaNav&fontColor=E6F1FF&fontSize=100&fontAlign=50&fontAlignY=40&desc=.%20%3A%20%3A%20%7C%20%23%20%23%20%C2%B7%20lidar%20%C2%B7%20RESEARCH&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="c2 FoveaNav: adaptive-resolution LiDAR mapping. Research direction." width="100%" />
-      </a>
-    </td>
-    <!-- d2 · AI Race Engineer · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-RACE-ENGINEER">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=900&text=RACE_ENG&fontColor=E6F1FF&fontSize=100&fontAlign=50&fontAlignY=40&desc=%7E%7E%7E%20%C2%B7%20telemetry%20%C2%B7%20CONCEPT&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="d2 AI Race Engineer: motorsport telemetry and decision systems. Concept." width="100%" />
+    <td align="center" width="33%">
+      <a href="https://uselumiere.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=LUMIERE&fontColor=E6F1FF&fontSize=43&fontAlign=50&fontAlignY=38&desc=%2B%20%C2%B7%20clinical%20intelligence%20%C2%B7%20LIVE&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="Lumiere: clinical data synthesis and patient identity resolution. Live project." width="100%" />
       </a>
     </td>
   </tr>
   <tr>
-    <!-- a1 · SoundOS · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-SOUNDOS">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=900&text=SoundOS&fontColor=E6F1FF&fontSize=100&fontAlign=50&fontAlignY=40&desc=%7C%7C%20%7C%7C%7C%20%7C%7C%20%C2%B7%20voice-first%20%C2%B7%20EXPERIMENTAL&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="a1 SoundOS: voice-first accessible computing. Experimental." width="100%" />
+    <td align="center" width="33%">
+      <a href="https://github.com/nipunn-git/CV-AirOS">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=AirOS&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&desc=%5B%20%2B%20%2B%20%2B%20%5D%20%C2%B7%20gesture%20interface&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="AirOS: computer vision, hand tracking, and gesture-controlled computing. Repository available." width="100%" />
       </a>
     </td>
-    <!-- b1 · PromptHub · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-PROMPTHUB">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=900&text=PromptHub&fontColor=E6F1FF&fontSize=100&fontAlign=50&fontAlignY=40&desc=%5B%5D%20%5B%5D%20%5B%5D%20%C2%B7%20modules%20%C2%B7%20CONCEPT&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="b1 PromptHub: developer tools and prompt engineering. Concept." width="100%" />
+    <td align="center" width="33%">
+      <a href="https://promp-thub.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=PromptHub&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&desc=%5B%5D%20%5B%5D%20%5B%5D%20%C2%B7%20AI%20prompts%20%C2%B7%20LIVE&descSize=15&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="PromptHub: AI prompt repositories, optimization, and testing. Live project." width="100%" />
       </a>
     </td>
-    <!-- c1 · NeuroDrive · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-NEURODRIVE">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=900&text=NEURODRIVE&fontColor=22D3EE&fontSize=100&fontAlign=50&fontAlignY=40&desc=%2F%20%7C%20%5C%20%C2%B7%20perception%20rays%20%C2%B7%20DIRECTION&descSize=58&descAlign=50&descAlignY=60&stroke=22D3EE&strokeWidth=6" alt="c1 NeuroDrive: autonomous vehicle intelligence. Long-term direction, not an existing repository." width="100%" />
-      </a>
-    </td>
-    <!-- d1 · Project 08 · EDIT LINK -->
-    <td align="center" width="25%">
-      <a href="https://github.com/nipunn-git/REPLACE-PROJECT-08">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=900&text=PROJECT_08&fontColor=64748B&fontSize=100&fontAlign=50&fontAlignY=40&desc=x%3F%20%C2%B7%20y%3F%20%C2%B7%20IN%20DEVELOPMENT&descSize=58&descAlign=50&descAlignY=60&stroke=1E3A5F&strokeWidth=6" alt="d1 Project 08: experimental engineering placeholder. In development." width="100%" />
-      </a>
+    <td align="center" width="33%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=GreenRoute&fontColor=E6F1FF&fontSize=38&fontAlign=50&fontAlignY=38&desc=%E2%86%97%20%C2%B7%20sustainable%20mobility%20%C2%B7%20IN%20DEVELOPMENT&descSize=14&descAlign=50&descAlignY=63&stroke=1E3A5F&strokeWidth=3" alt="GreenRoute: sustainable mobility and greener transportation. Currently in development." width="100%" />
     </td>
   </tr>
 </table>
@@ -123,18 +103,63 @@
 
 <code>FIELD NOTES</code>
 
-| SQ | PROJECT | DOMAIN | STATUS |
-|:--:|:--------|:-------|:-------|
-| `a2` | **VAELON** | AI systems · HCI · vision · voice · memory | `CONCEPT` JARVIS-inspired long-term vision |
-| `b2` | **AirOS** | Computer vision · hand tracking · gesture control | `EXPERIMENTAL` |
-| `c2` | **FoveaNav** | LiDAR · variable-resolution 2.5D elevation · semantic layers | `RESEARCH DIRECTION` |
-| `d2` | **AI Race Engineer** | Telemetry · energy-aware strategy · overtaking assessment | `CONCEPT` |
-| `a1` | **SoundOS** | Voice-first computing · accessibility for blind users | `EXPERIMENTAL` not a finished product |
-| `b1` | **PromptHub** | Developer tools · prompt organization | `CONCEPT` |
-| `c1` | **NeuroDrive** | Perception · localization · planning · control · RL · CARLA | `LONG-TERM DIRECTION` not an existing repository |
-| `d1` | **PROJECT_08** | Unassigned experimental slot | `IN DEVELOPMENT` |
+SQ
 
-<sub>Tile links are placeholders until each repository exists.</sub>
+PROJECT
+
+DOMAIN
+
+STATUS
+
+a1
+
+FinWise AI
+
+AI finance · fraud detection · financial education
+
+LIVE PROJECT
+
+b1
+
+Ziro
+
+Financial inclusion · AI credit scoring · offline cryptography
+
+LIVE PROJECT
+
+c1
+
+Lumiere
+
+Clinical intelligence · identity resolution · healthcare interoperability
+
+LIVE PROJECT
+
+a2
+
+AirOS
+
+Computer vision · hand tracking · gesture-controlled computing
+
+REPOSITORY AVAILABLE
+
+b2
+
+PromptHub
+
+Developer tools · AI prompt optimization · prompt repositories
+
+LIVE PROJECT
+
+c2
+
+GreenRoute
+
+Sustainable mobility · travel tracking · greener transportation
+
+IN DEVELOPMENT
+
+<sub>Live project tiles open their deployments. AirOS links directly to its GitHub repository. GreenRoute is not linked while it remains under development.</sub>
 
 </div>
 
@@ -145,19 +170,47 @@
 
 <code>SECTION 02 / FOUNDATIONS</code>
 
-## WHAT I'M BUILDING TOWARD
+WHAT I'M BUILDING TOWARD
 
 <sub>Learning directions, not claims of mastery.</sub>
 
 </div>
 
-| ID | DOMAIN | FOCUS |
-|:--:|:-------|:------|
-| `01` | **MATHEMATICS** | Linear algebra · probability · statistics · optimization |
-| `02` | **INTELLIGENCE** | Machine learning · deep learning · reinforcement learning |
-| `03` | **PERCEPTION** | Computer vision · LiDAR · localization · sensor fusion |
-| `04` | **AUTONOMY** | Robotics · planning · control systems · autonomous vehicles |
-| `05` | **INTERACTION** | Gesture interfaces · voice-first systems · intelligent computing |
+ID
+
+DOMAIN
+
+FOCUS
+
+01
+
+MATHEMATICS
+
+Linear algebra · probability · statistics · optimization
+
+02
+
+INTELLIGENCE
+
+Machine learning · deep learning · reinforcement learning
+
+03
+
+PERCEPTION
+
+Computer vision · LiDAR · localization · sensor fusion
+
+04
+
+AUTONOMY
+
+Robotics · planning · control systems · autonomous vehicles
+
+05
+
+INTERACTION
+
+Gesture interfaces · voice-first systems · intelligent computing
 
 <br />
 
@@ -166,9 +219,9 @@
 
 <code>SECTION 03 / ROADMAP</code>
 
-## ENGINEERING TRAJECTORY
+ENGINEERING TRAJECTORY
 
-<code>MATHEMATICS</code> → <code>MACHINE LEARNING</code> → <code>DEEP LEARNING</code> → <code>COMPUTER VISION</code> → <code>ROBOTICS &amp; CONTROL</code> → <code>REINFORCEMENT LEARNING</code> → <code>AUTONOMOUS SYSTEMS</code>
+<code>MATHEMATICS</code> → <code>MACHINE LEARNING</code> → <code>DEEP LEARNING</code> → <code>COMPUTER VISION</code> → <code>ROBOTICS & CONTROL</code> → <code>REINFORCEMENT LEARNING</code> → <code>AUTONOMOUS SYSTEMS</code>
 
 <sub>Direction of travel, not a list of completed stages. Currently: Data Science undergraduate, building the foundations.</sub>
 
@@ -177,13 +230,13 @@
 
 <code>SECTION 04 / TOOLCHAIN</code>
 
-## STACK
+STACK
 
-**Using**
+Using
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" alt="Languages and tools in use: Python, Java, C, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
 
-**Exploring**
+Exploring
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark" alt="Technologies being explored: NumPy, Pandas, scikit-learn, PyTorch" />
 
@@ -192,7 +245,7 @@
 
 <code>SECTION 05 / PROBLEM SOLVING</code>
 
-## PROBLEM SOLVING
+PROBLEM SOLVING
 
 <a href="https://leetcode.com/u/nipunndhiman/">
   <img src="https://leetcard.jacoblin.cool/nipunndhiman?theme=dark&font=JetBrains%20Mono&border=0" alt="LeetCode statistics card for nipunndhiman" width="480" />
@@ -205,7 +258,7 @@
 
 <code>SECTION 06 / DASHBOARD</code>
 
-## GITHUB TELEMETRY
+GITHUB TELEMETRY
 
 <img src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF&icon_color=22D3EE" alt="GitHub stats for nipunn-git" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF" alt="Top languages for nipunn-git" height="150" />
