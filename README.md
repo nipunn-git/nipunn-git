@@ -178,7 +178,7 @@
 
 ### `08` 3D & Autonomy — Exploring
 <p align="center"><img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" alt="Three.js and Blender" /></p>
-<sub>Robotics · reinforcement learning · LiDAR · sensor fusion · autonomous vehicles</sub>
+
 
 </td>
 </tr>
