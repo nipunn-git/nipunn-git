@@ -114,101 +114,79 @@
 <div align="center">
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=620&height=35&lines=SECTION+02+%2F+TECH+MATRIX;TOOLS+FOR+BUILDING+INTELLIGENT+SYSTEMS;STACK+SCAN+INITIALIZED..." alt="Tech matrix: tools for building intelligent systems" />
+<div align="center">
 
-# TECH MATRIX
+<code>SECTION 02 / TOOLCHAIN</code>
 
-<sub>A categorized map of the tools and technologies I use or am exploring.</sub>
+## TECH STACK
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:22D3EE,100:070B14&height=3" alt="" width="100%" />
+<sub>One toolkit. Multiple directions. Always learning.</sub>
 
 </div>
 
-### `01 / PROGRAMMING LANGUAGES`
-<sub>THE CORE TOOLCHAIN</sub>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" alt="Python, C, Java, JavaScript" />
-</p>
+### `01` Programming
+<p align="center"><img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" alt="Python, C, Java, JavaScript" /></p>
 
----
+</td>
+<td width="50%" valign="top">
 
-### `02 / WEB ENGINEERING`
-<sub>INTERFACES · FRONTEND · APPLICATIONS</sub>
+### `02` Web Engineering
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js, Tailwind CSS" /></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### `03` Machine Learning & AI
+<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" alt="PyTorch, scikit-learn, TensorFlow" /></p>
 
-### `03 / MACHINE LEARNING & AI`
-<sub>MODELS · INFERENCE · INTELLIGENT SYSTEMS</sub>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow&theme=dark" alt="PyTorch, scikit-learn, TensorFlow" />
-</p>
+### `04` Data Science
+<p align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,jupyter" alt="NumPy, Pandas, Matplotlib, Seaborn, Jupyter" /></p>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas" alt="NumPy and Pandas" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### `05` Computer Vision
+<p align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,mediapipe" alt="OpenCV and MediaPipe" /></p>
 
-### `04 / DATA SCIENCE`
-<sub>DATA WRANGLING · NUMERICAL COMPUTING · ANALYSIS</sub>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,jupyter" alt="NumPy, Pandas, Matplotlib, Seaborn, Jupyter" />
-</p>
+### `06` Backend & APIs
+<p align="center"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,sqlite,firebase&theme=dark" alt="FastAPI, Node.js, Express, SQLite, Firebase" /></p>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### `05 / COMPUTER VISION`
-<sub>VISUAL PERCEPTION · HAND TRACKING · IMAGE PIPELINES</sub>
+### `07` Tools & Workflow
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash" /></p>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,mediapipe" alt="OpenCV and MediaPipe" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<sub>Exploration direction: real-time vision, gesture recognition, and perception systems.</sub>
+### `08` 3D & Autonomy — Exploring
+<p align="center"><img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" alt="Three.js and Blender" /></p>
+<sub>Robotics · reinforcement learning · LiDAR · sensor fusion · autonomous vehicles</sub>
 
----
-
-### `06 / BACKEND & APIs`
-<sub>SERVICES · DATA FLOW · INTEGRATION</sub>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,sqlite,firebase&theme=dark" alt="FastAPI, Node.js, Express, SQLite, Firebase" />
-</p>
-
----
-
-### `07 / DEVELOPER TOOLING`
-<sub>VERSION CONTROL · BUILD · WORKFLOW</sub>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Git, GitHub, VS Code, Linux, Bash" />
-</p>
-
----
-
-### `08 / 3D, SIMULATION & AUTONOMY`
-<sub>SPATIAL SYSTEMS · ROBOTICS · AUTONOMOUS VEHICLES</sub>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" alt="Three.js and Blender" />
-</p>
-
-<sub>Areas I am working toward: robotics, reinforcement learning, LiDAR perception, sensor fusion, planning, and control. These are learning directions—not claims of mastery.</sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
-
-<sub><code>STACK STATUS: EVOLVING</code> &nbsp;·&nbsp; <code>LEARN → BUILD → TEST → REFINE</code></sub>
+<sub><code>LEARN → BUILD → TEST → REFINE</code></sub>
 
 </div>
 
