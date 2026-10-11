@@ -15,50 +15,18 @@
 <!-- INSTAGRAM-DM-INSPIRED CHAT PREVIEW -->
 <div align="center">
 
-<br />
+<a href="https://github.com/nipunn-git">
+  <img src="./assets/nipun-dm-chat.svg" alt="Nipun AI — Instagram DM-inspired chat preview" width="100%" />
+</a>
 
-<table width="620" cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td bgcolor="#111827" colspan="2" align="left">
-      <table width="100%" cellpadding="12" cellspacing="0">
-        <tr>
-          <td width="52" align="center"><img src="https://img.shields.io/badge/N-22D3EE?style=for-the-badge&labelColor=111827" alt="Nipun avatar" /></td>
-          <td align="left"><strong><font color="#F9FAFB">Nipun Dhiman</font></strong><br /><sub>AI · BUILDING · AUTONOMY</sub></td>
-          <td align="right"><code>DM / 01</code></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0B1220" colspan="2" align="center">
-      <br />
-      <sub>YOU'RE NOW CHATTING WITH</sub><br />
-      <strong>THE PERSON BEHIND THE PROJECTS</strong>
-      <br /><br />
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0B1220" colspan="2" align="left">
-      <table width="100%" cellpadding="10" cellspacing="0">
-        <tr><td width="12%" valign="top"><img src="https://img.shields.io/badge/N-22D3EE?style=flat-square&labelColor=111827" alt="Nipun" /></td><td bgcolor="#1F2937" align="left"><font color="#F9FAFB">Hey! I'm Nipun — I build things around AI, intelligent systems, and autonomy. What are you curious about?</font></td></tr>
-        <tr><td></td><td align="right"><table cellpadding="8" cellspacing="0"><tr><td bgcolor="#123B55"><font color="#E0F2FE">Tell me about your projects</font></td></tr></table></td></tr>
-        <tr><td width="12%" valign="top"><img src="https://img.shields.io/badge/N-22D3EE?style=flat-square&labelColor=111827" alt="Nipun" /></td><td bgcolor="#1F2937" align="left"><font color="#F9FAFB">Pick a project from the board below, or reach out directly. I'm always up for discussing ideas, collaboration, and engineering.</font></td></tr>
-      </table>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#111827" colspan="2" align="center">
-      <br />
-      <a href="https://github.com/nipunn-git"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B1F3A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore projects on GitHub" /></a>
-      &nbsp;
-      <a href="mailto:nipunndhiman@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-123B55?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Start a conversation by email" /></a>
-      <br /><br />
-      <sub>THIS IS THE PROFILE CHAT PREVIEW · USE THE LINKS TO CONNECT</sub>
-      <br /><br />
-    </td>
+    <td align="center"><a href="https://github.com/nipunn-git"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-17131F?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a></td>
+    <td align="center"><a href="mailto:nipunndhiman@gmail.com"><img src="https://img.shields.io/badge/CHAT%20WITH%20ME-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Contact Nipun" /></a></td>
   </tr>
 </table>
+
+<sub>DM-INSPIRED PROFILE CHAT · LIVE AI CHATBOT WILL OPEN AS A SEPARATE APP</sub>
 
 </div>
 
