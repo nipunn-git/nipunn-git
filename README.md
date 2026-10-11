@@ -21,12 +21,50 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/nipunn-git"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-17131F?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a></td>
-    <td align="center"><a href="https://nipun-ai.onrender.com"><img src="https://img.shields.io/badge/CHAT%20WITH%20NIPUN%20AI-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Chat with Nipun AI" /></a></td>
+    <td align="center">
+      <a href="#the-board">
+        <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-17131F?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects — jump to The Board" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nipun-ai.onrender.com">
+        <img src="https://img.shields.io/badge/CHAT%20WITH%20NIPUN%20AI-8338EC?style=for-the-badge&labelColor=17131F" alt="Chat with Nipun AI" />
+      </a>
+    </td>
   </tr>
 </table>
 
-<sub>DM-INSPIRED PROFILE CHAT · CLICK THE PREVIEW OR BUTTON TO CHAT WITH NIPUN AI</sub>
+<br />
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/nipun-712b2536b/" title="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nipunn-git" title="GitHub">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/nipunndhiman/" title="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/nipundhiman21" title="X">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/nipunndhimn/" title="LeetCode">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -41,6 +79,8 @@
 <div align="center">
 
 <code>SECTION 01 / PROJECT BOARD</code>
+
+<a id="the-board"></a>
 
 ## THE BOARD
 
