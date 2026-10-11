@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
+<title id="title">Nipun AI — Instagram DM inspired chat preview</title><desc id="desc">A dark Instagram-style messaging window with profile header, incoming gray messages, outgoing purple gradient messages, and a message composer.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101014"/><stop offset="1" stop-color="#19151f"/></linearGradient>
+ <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a83df2"/><stop offset="1" stop-color="#5946e8"/></linearGradient>
+ <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f77737"/><stop offset=".52" stop-color="#e1306c"/><stop offset="1" stop-color="#833ab4"/></linearGradient>
+ <pattern id="doodles" width="150" height="125" patternUnits="userSpaceOnUse" opacity=".12" fill="none" stroke="#a5a0b0" stroke-width="2"><path d="M18 26c-12-18 10-25 18-10 8-15 30-8 18 10L36 43Z"/><circle cx="110" cy="35" r="13"/><path d="M100 34h20m-10-10v22M20 90l17-14 17 14-17 14Z"/><path d="M91 92q18-25 35 0q-17 25-35 0Z"/><path d="M67 8l7 13 15 2-11 10 3 15-14-8-13 8 3-15-11-10 15-2Z"/></pattern>
+ <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1200" height="600" rx="28" fill="url(#bg)"/><rect width="1200" height="600" rx="28" fill="url(#doodles)"/>
+<rect x="38" y="30" width="1124" height="540" rx="25" fill="#09090d" stroke="#34313a" stroke-width="2" filter="url(#shadow)"/>
+<!-- Header -->
+<path d="M63 30h1074a25 25 0 0 1 25 25v74H38V55a25 25 0 0 1 25-25Z" fill="#101014"/>
+<circle cx="84" cy="79" r="22" fill="url(#pink)"/><circle cx="84" cy="73" r="7" fill="#fff"/><path d="M70 91q14-19 28 0" fill="#fff"/>
+<text x="120" y="72" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" fill="#f8f7fb">Nipun AI</text><text x="120" y="96" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#9f9ba8">Ask me about Nipun &amp; his projects</text>
+<g stroke="#e9e5ef" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="1040" cy="76" r="10"/><path d="M1034 83l-7 8m19-8 7 8"/><rect x="1070" y="66" width="22" height="17" rx="4"/><path d="M1092 71l10-6v20l-10-6"/><path d="M1120 69q-4-4-8 0l-3 4q-2 4 6 12t12 6l4-3q4-4 0-8l-5-3-5 4q-5-3-7-8l4-4Z"/></g>
+<line x1="38" y1="129" x2="1162" y2="129" stroke="#2d2933"/>
+<!-- date chip -->
+<rect x="513" y="145" width="174" height="29" rx="15" fill="#24212a"/><text x="600" y="164" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.5" fill="#aaa5b3">A LITTLE INTRO</text>
+<!-- incoming -->
+<circle cx="83" cy="224" r="15" fill="url(#pink)"/><text x="83" y="229" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">N</text>
+<rect x="108" y="191" width="438" height="66" rx="23" fill="#29272e"/><text x="132" y="218" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#f7f5fa">Hey! I'm Nipun — I build things around</text><text x="132" y="241" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#f7f5fa">AI, intelligent systems, and autonomy.</text>
+<!-- outgoing -->
+<rect x="733" y="275" width="385" height="52" rx="23" fill="url(#purple)"/><text x="760" y="307" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#fff">What projects have you built?</text>
+<!-- incoming second -->
+<circle cx="83" cy="367" r="15" fill="url(#pink)"/><text x="83" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">N</text>
+<rect x="108" y="339" width="520" height="76" rx="23" fill="#29272e"/><text x="132" y="367" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#f7f5fa">Explore FinWise AI, Ziro, Lumiere, AirOS,</text><text x="132" y="392" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#f7f5fa">PromptHub — and GreenRoute in progress.</text>
+<!-- outgoing -->
+<rect x="817" y="432" width="301" height="50" rx="23" fill="url(#purple)"/><text x="843" y="463" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#fff">Tell me about AirOS</text>
+<!-- composer -->
+<rect x="65" y="510" width="1070" height="43" rx="22" fill="#19171e" stroke="#3b3544" stroke-width="1.5"/>
+<circle cx="91" cy="531" r="11" fill="none" stroke="#c5becf" stroke-width="2"/><path d="M91 524v14m-7-7h14" stroke="#c5becf" stroke-width="2" stroke-linecap="round"/>
+<text x="119" y="537" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#898392">Message Nipun AI…</text>
+<g fill="none" stroke="#c5becf" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="1045" y="521" width="17" height="19" rx="5"/><path d="M1041 531a12 12 0 0 0 25 0m-12 12v4m-6 0h12"/><circle cx="1091" cy="531" r="9"/><path d="M1087 531h8m-4-4v8"/></g>
+</svg>
