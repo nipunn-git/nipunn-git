@@ -18,7 +18,7 @@
 
 <br />
 
-<code>SYSTEM / NIPUN.DHIMAN</code>  ·  <code>DOMAIN / INTELLIGENT SYSTEMS</code>  ·  <code>TRAJECTORY / AI → ROBOTICS → AUTONOMY</code>
+<code>SYSTEM / NIPUN.DHIMAN</code> &nbsp;·&nbsp; <code>DOMAIN / INTELLIGENT SYSTEMS</code> &nbsp;·&nbsp; <code>TRAJECTORY / AI → ROBOTICS → AUTONOMY</code>
 
 <br /><br />
 
@@ -44,10 +44,10 @@
 
 <code>SECTION 01 / PROJECT BOARD</code>
 
-THE BOARD
+## THE BOARD
 
 <sub>Six projects. Six directions in applied AI, intelligent systems, and engineering.<br />
-<code>LIVE PROJECT</code> = deployed application  ·  <code>REPOSITORY</code> = source code available  ·  <code>IN DEVELOPMENT</code> = work in progress</sub>
+<code>LIVE PROJECT</code> = deployed application &nbsp;·&nbsp; <code>REPOSITORY</code> = source code available &nbsp;·&nbsp; <code>IN DEVELOPMENT</code> = work in progress</sub>
 
 <br /><br />
 
@@ -96,61 +96,14 @@ THE BOARD
 
 </div>
 
-SQ
-
-PROJECT
-
-DOMAIN
-
-STATUS
-
-a1
-
-FinWise AI
-
-AI finance · fraud detection · financial education
-
-LIVE PROJECT
-
-b1
-
-Ziro
-
-Financial inclusion · AI credit scoring · offline cryptography
-
-LIVE PROJECT
-
-c1
-
-Lumiere
-
-Clinical intelligence · identity resolution · healthcare interoperability
-
-LIVE PROJECT
-
-a2
-
-AirOS
-
-Computer vision · hand tracking · gesture-controlled computing
-
-REPOSITORY AVAILABLE
-
-b2
-
-PromptHub
-
-Developer tools · AI prompt optimization · prompt repositories
-
-LIVE PROJECT
-
-c2
-
-GreenRoute
-
-Sustainable mobility · travel tracking · greener transportation
-
-IN DEVELOPMENT
+| SQ | PROJECT | DOMAIN | STATUS |
+|:--:|:--------|:-------|:-------|
+| `a1` | **[FinWise AI](https://getfinwise.vercel.app/)** | AI finance · fraud detection · financial education | `LIVE PROJECT` |
+| `b1` | **[Ziro](https://zir0.vercel.app/)** | Financial inclusion · AI credit scoring · offline cryptography | `LIVE PROJECT` |
+| `c1` | **[Lumiere](https://uselumiere.vercel.app/)** | Clinical intelligence · identity resolution · healthcare interoperability | `LIVE PROJECT` |
+| `a2` | **[AirOS](https://github.com/nipunn-git/CV-AirOS)** | Computer vision · hand tracking · gesture-controlled computing | `REPOSITORY AVAILABLE` |
+| `b2` | **[PromptHub](https://promp-thub.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
+| `c2` | **GreenRoute** | Sustainable mobility · travel tracking · greener transportation | `IN DEVELOPMENT` |
 
 <div align="center">
 <sub>Live project tiles open their deployments. AirOS links directly to its GitHub repository. GreenRoute is not linked while it remains under development.</sub>
@@ -161,13 +114,13 @@ IN DEVELOPMENT
 <div align="center">
 <code>SECTION 02 / TOOLCHAIN</code>
 
-STACK
+## STACK
 
-Using
+**Using**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&theme=dark" alt="Languages and tools in use: Python, Java, C, HTML, CSS, JavaScript, Git, GitHub, VS Code" />
 
-Exploring
+**Exploring**
 
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark" alt="Technologies being explored: NumPy, Pandas, scikit-learn, PyTorch" />
 
@@ -176,7 +129,7 @@ Exploring
 
 <code>SECTION 03 / PROBLEM SOLVING</code>
 
-PROBLEM SOLVING
+## PROBLEM SOLVING
 
 <a href="https://leetcode.com/u/nipunndhiman/">
   <img src="https://leetcard.jacoblin.cool/nipunndhiman?theme=dark&font=JetBrains%20Mono&border=0" alt="LeetCode statistics card for nipunndhiman" width="480" />
@@ -189,7 +142,7 @@ PROBLEM SOLVING
 
 <code>SECTION 04 / DASHBOARD</code>
 
-GITHUB TELEMETRY
+## GITHUB TELEMETRY
 
 <img src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF&icon_color=22D3EE" alt="GitHub stats for nipunn-git" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF" alt="Top languages for nipunn-git" height="150" />
