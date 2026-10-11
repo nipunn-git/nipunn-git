@@ -116,6 +116,11 @@
 
 <div align="center">
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated gradient section divider" />
+</p>
+
 <code>SECTION 02 / TOOLCHAIN</code>
 
 ## TECH STACK
@@ -178,7 +183,7 @@
 
 ### `08` 3D & Autonomy — Exploring
 <p align="center"><img src="https://skillicons.dev/icons?i=threejs,blender&theme=dark" alt="Three.js and Blender" /></p>
-
+<sub>Robotics · reinforcement learning · LiDAR · sensor fusion · autonomous vehicles</sub>
 
 </td>
 </tr>
@@ -192,6 +197,11 @@
 
 <br />
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated gradient section divider" />
+</p>
+
 <code>SECTION 03 / PROBLEM SOLVING</code>
 
 ## PROBLEM SOLVING
@@ -204,6 +214,11 @@
 
 <br /><br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:1E3A5F,100:070B14&height=3" alt="" width="100%" />
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated gradient section divider" />
+</p>
 
 <code>SECTION 04 / DASHBOARD</code>
 
