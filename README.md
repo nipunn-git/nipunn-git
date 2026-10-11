@@ -224,6 +224,9 @@
 
 ## GITHUB TELEMETRY
 
+<sub>Private-repository contribution counts are anonymized by GitHub. The standard stats and streak widgets are third-party services and do not automatically inherit your profile visibility setting.</sub>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=nipunn-git&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF&icon_color=22D3EE" alt="GitHub stats for nipunn-git" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunn-git&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=9CA3AF" alt="Top languages for nipunn-git" height="150" />
 
@@ -234,17 +237,18 @@
 <br /><br />
 
 <!--
-AUTO-UPDATE SETUP:
-Add .github/workflows/snake.yml to nipunn-git/nipunn-git using Platane/snk.
-Run it on a schedule and on pushes, grant contents: write permission, and publish
-the generated SVG to the output branch. The image updates after the workflow succeeds.
+PRIVATE CONTRIBUTIONS SETUP:
+Add a repository Actions secret named PAT_TOKEN to nipunn-git/nipunn-git.
+Use a classic personal access token with repo access, or a fine-grained token
+with read access to the private repositories whose contributions should count.
+The workflow passes this token to Platane/snk. Never paste the token into this README.
 -->
 
 <div align="center">
 
 ## Contribution Snake
 
-<sub>GREEN SQUARES · AUTO-UPDATED WITH GITHUB ACTIONS</sub>
+<sub>GREEN SQUARES · AUTO-UPDATED WITH GITHUB ACTIONS · PRIVATE ACTIVITY REQUIRES PAT_TOKEN</sub>
 
 <img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake.svg" alt="Contribution Snake eating green contribution squares" width="100%" />
 
