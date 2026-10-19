@@ -128,6 +128,11 @@
         <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=Veratis&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Veratis. Live project." width="100%" />
       </a>
     </td>
+    <td align="center" width="33%">
+      <a href="https://kin-path.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=Kin&fontColor=E6F1FF&fontSize=48&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Kin. Live project." width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
