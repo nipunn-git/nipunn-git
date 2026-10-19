@@ -154,6 +154,8 @@
 | `a2` | **[AirOS](https://github.com/nipunn-git/CV-AirOS)** | Computer vision · hand tracking · gesture-controlled computing | `REPOSITORY AVAILABLE` |
 | `b2` | **[PromptHub](https://promp-thub.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
 | `c2` | **GreenRoute** | Sustainable mobility · travel tracking · greener transportation | `IN DEVELOPMENT` |
+| `d2` | **[Veratis](https://realveratis.vercel.app/)** | — | `LIVE PROJECT` |
+| `e2` | **[Kin](https://kin-path.vercel.app/)** | Alumni network · professional connections · verified talent | `LIVE PROJECT` |
 
 <div align="center">
 <sub>Live project tiles open their deployments. AirOS links directly to its GitHub repository. GreenRoute is not linked while it remains under development.</sub>
