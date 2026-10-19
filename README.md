@@ -309,12 +309,12 @@ The workflow passes this token to Platane/snk. Never paste the token into this R
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated gradient section divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Section divider" />
 </p>
 
 <div align="center">
 
-<code>SECTION 05 / RECOGNITION</code>
+<code>SECTION 06 / RECOGNITION</code>
 
 ## ACHIEVEMENTS & RECOGNITIONS
 
@@ -324,7 +324,7 @@ The workflow passes this token to Platane/snk. Never paste the token into this R
 - 🥇 **Winner** — ACM-SIH Ideathon
 - 🥇 **1st Place** — Byte Battle | Code2Career Club
 - 🥇 **1st Runner Up** — AIdeathon | Entrepreneurship Club
-- 🥇 **2nd Runner Up** — Student Idea Showcase | Women Empowerment Theme
+- 🥈 **2nd Runner Up** — Student Idea Showcase | Women Empowerment Theme
 - 🏆 **Top 6** — StoxraHack 2026
 - 🏅 **Top 67 Nationwide** — Confluence 2.0 International Innovation Hackathon
 - 🧑‍💻 **ACM Webmaster** — NMIMS Chandigarh
