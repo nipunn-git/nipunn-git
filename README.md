@@ -154,7 +154,7 @@
 | `a2` | **[AirOS](https://github.com/nipunn-git/CV-AirOS)** | Computer vision · hand tracking · gesture-controlled computing | `REPOSITORY AVAILABLE` |
 | `b2` | **[PromptHub](https://promp-thub.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
 | `c2` | **GreenRoute** | Sustainable mobility · travel tracking · greener transportation | `IN DEVELOPMENT` |
-| `d2` | **[Veratis](https://realveratis.vercel.app/)** | — | `LIVE PROJECT` |
+| `d2` | **[Veratis](https://realveratis.vercel.app/)** | Full-stack epistemic intelligence · media forensics · deepfake and disinformation defense | `LIVE PROJECT` |
 | `e2` | **[Kin](https://kin-path.vercel.app/)** | Alumni network · professional connections · verified talent | `LIVE PROJECT` |
 
 <div align="center">
@@ -305,6 +305,29 @@ The workflow passes this token to Platane/snk. Never paste the token into this R
 <img src="https://raw.githubusercontent.com/nipunn-git/nipunn-git/output/github-contribution-grid-snake.svg" alt="Contribution Snake eating green contribution squares" width="100%" />
 
 </div>
+
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Animated gradient section divider" />
+</p>
+
+<div align="center">
+
+<code>SECTION 05 / RECOGNITION</code>
+
+## ACHIEVEMENTS & RECOGNITIONS
+
+</div>
+
+- 🥇 **1st Place** — Plaksha Prayas Tech Hackathon 2026 (Future Finance Track)
+- 🥇 **Winner** — ACM-SIH Ideathon
+- 🥇 **1st Place** — Byte Battle | Code2Career Club
+- 🥇 **1st Runner Up** — AIdeathon | Entrepreneurship Club
+- 🥇 **2nd Runner Up** — Student Idea Showcase | Women Empowerment Theme
+- 🏆 **Top 6** — StoxraHack 2026
+- 🏅 **Top 67 Nationwide** — Confluence 2.0 International Innovation Hackathon
+- 🧑‍💻 **ACM Webmaster** — NMIMS Chandigarh
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:22D3EE,100:070B14&height=4" alt="" width="100%" />
