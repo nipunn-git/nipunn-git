@@ -320,14 +320,18 @@ The workflow passes this token to Platane/snk. Never paste the token into this R
 
 </div>
 
-- 🥇 **1st Place** — Plaksha Prayas Tech Hackathon 2026 (Future Finance Track)
-- 🥇 **Winner** — ACM-SIH Ideathon
-- 🥇 **1st Place** — Byte Battle | Code2Career Club
-- 🥇 **1st Runner Up** — AIdeathon | Entrepreneurship Club
-- 🥈 **2nd Runner Up** — Student Idea Showcase | Women Empowerment Theme
-- 🏆 **Top 6** — StoxraHack 2026
-- 🏅 **Top 67 Nationwide** — Confluence 2.0 International Innovation Hackathon
-- 🧑‍💻 **ACM Webmaster** — NMIMS Chandigarh
+<br />
+
+<ul align="left">
+  <li>🥇 <strong>1st Place</strong> — Plaksha Prayas Tech Hackathon 2026 (Future Finance Track)</li>
+  <li>🥇 <strong>Winner</strong> — ACM-SIH Ideathon</li>
+  <li>🥇 <strong>1st Place</strong> — Byte Battle | Code2Career Club</li>
+  <li>🥇 <strong>1st Runner Up</strong> — AIdeathon | Entrepreneurship Club</li>
+  <li>🥈 <strong>2nd Runner Up</strong> — Student Idea Showcase | Women Empowerment Theme</li>
+  <li>🏆 <strong>Top 6</strong> — StoxraHack 2026</li>
+  <li>🏅 <strong>Top 67 Nationwide</strong> — Confluence 2.0 International Innovation Hackathon</li>
+  <li>🧑‍💻 <strong>ACM Webmaster</strong> — NMIMS Chandigarh</li>
+</ul>
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:070B14,50:22D3EE,100:070B14&height=4" alt="" width="100%" />
