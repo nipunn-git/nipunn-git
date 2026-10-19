@@ -122,6 +122,13 @@
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0F1B2E&height=320&text=GreenRoute&fontColor=E6F1FF&fontSize=38&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="GreenRoute: sustainable mobility and greener transportation. Currently in development." width="100%" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://realveratis.vercel.app/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=Veratis&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Veratis. Live project." width="100%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
