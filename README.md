@@ -114,8 +114,8 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://promp-thub.vercel.app/">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=PromptHub&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="PromptHub: AI prompt repositories, optimization, and testing. Live project." width="100%" />
+      <a href="https://prysm-social.vercel/">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=Prysm&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Prysm: AI prompt repositories, optimization, and testing. Live project." width="100%" />
       </a>
     </td>
     <td align="center" width="33%">
@@ -152,7 +152,7 @@
 | `b1` | **[Ziro](https://zir0.vercel.app/)** | Financial inclusion · AI credit scoring · offline cryptography | `LIVE PROJECT` |
 | `c1` | **[Lumiere](https://uselumiere.vercel.app/)** | Clinical intelligence · identity resolution · healthcare interoperability | `LIVE PROJECT` |
 | `a2` | **[AirOS](https://github.com/nipunn-git/CV-AirOS)** | Computer vision · hand tracking · gesture-controlled computing | `REPOSITORY AVAILABLE` |
-| `b2` | **[PromptHub](https://promp-thub.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
+| `b2` | **[Prysm](https://prysm-social.vercel.app/)** | Developer tools · AI prompt optimization · prompt repositories | `LIVE PROJECT` |
 | `c2` | **GreenRoute** | Sustainable mobility · travel tracking · greener transportation | `IN DEVELOPMENT` |
 | `d2` | **[Veratis](https://realveratis.vercel.app/)** | Full-stack epistemic intelligence · media forensics · deepfake and disinformation defense | `LIVE PROJECT` |
 | `e2` | **[Kin](https://kin-path.vercel.app/)** | Alumni network · professional connections · verified talent | `LIVE PROJECT` |
