@@ -114,7 +114,7 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://prysm-social.vercel/">
+      <a href="https://prysm-social.vercel.app/">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=070B14&height=320&text=Prysm&fontColor=E6F1FF&fontSize=42&fontAlign=50&fontAlignY=38&stroke=1E3A5F&strokeWidth=3" alt="Prysm: AI prompt repositories, optimization, and testing. Live project." width="100%" />
       </a>
     </td>
