@@ -185,7 +185,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### `01` Programming
+### `0` Programming
 <p align="center"><img src="https://skillicons.dev/icons?i=python,c,java,js&theme=dark" alt="Python, C, Java, JavaScript" /></p>
 
 </td>
